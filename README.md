@@ -9,6 +9,7 @@
 * 后端
     * mysql 5.7 +
     * Django==2.2
+    * 部署完后执行setup_data.py 脚本
 
 
 ## 用户管理
