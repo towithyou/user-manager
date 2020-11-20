@@ -1,0 +1,10 @@
+casbin==0.10.0
+Django==2.2
+django-mysql==3.9.0
+djangorestframework==3.12.2
+djangorestframework-jwt==1.11.0
+PyJWT==1.7.1
+PyMySQL==0.10.1
+pytz==2020.4
+simpleeval==0.9.10
+sqlparse==0.4.1
