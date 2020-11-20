@@ -17,8 +17,8 @@
     * 默认用户名admin, 密码admin。
 
 注意：  
-由于没有配置跨域，在前端代码里把域名写死了。域名必须是demo.usermanager.com
-docker部署完后，等待两分钟后访问
+由于没有配置跨域，在前端代码里把域名写死了。域名必须是demo.usermanager.com  
+docker部署完后，docker logs -f user-manager 观察日志，有日志更新后再访问
 
 
 ## 用户管理
