@@ -1,7 +1,7 @@
 version: '3'
 services:
   user-manager:
-    image: user-manager:latest
+    image: haiquanduan/user-manager:latest
     container_name: user-manager
     restart: always
     depends_on:
